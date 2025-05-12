@@ -1,6 +1,6 @@
 # Hi there, I'm Benjamin Ampah 👋
 
-🚀 Full-stack Developer | Cloud & DevOps Engineer | Cybersecurity Enthusiast | Data Scientist
+Web Development | Cloud & DevOps Engineer | Cybersecurity Enthusiast | Data Science
 
 I'm passionate about building innovative solutions across multiple domains of technology. Here you'll find my portfolio projects demonstrating my skills in:
 
