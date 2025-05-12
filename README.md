@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Benjamin Ampah 👋
 
 🚀 Full-stack Developer | Cloud & DevOps Engineer | Cybersecurity Enthusiast | Data Scientist
 
