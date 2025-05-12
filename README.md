@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Benjamin Ampah
+#  Hi there, I'm Benjamin Ampah
 
 ### Web Developer | Cloud & DevOps Engineer | Cybersecurity (SOC) Analyst | Data Science Enthusiast | Prompt Engineer
 
@@ -12,7 +12,7 @@ I'm a passionate technologist building across modern web stacks, cloud platforms
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
