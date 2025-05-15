@@ -59,10 +59,10 @@ I'm a passionate technologist building across modern web stacks, cloud platforms
 
 Explore projects I've built across different tech domains:
 
-- [🔗 Web Development Projects](#web-development)
-- [🔗 Cloud & DevOps Projects](#cloud--devops)
-- [🔗 Cybersecurity/SOC Projects](#cybersecurity)
-- [🔗 Data Science & Prompt Projects](#data-science)
+- [ Web Development Projects](#web-development)
+- [ Cloud & DevOps Projects](#cloud--devops)
+- [ Cybersecurity/SOC Projects](#cybersecurity)
+- [ Data Science & Prompt Projects](#data-science)
 
 ---
 
