@@ -4,24 +4,24 @@
 
 I'm a passionate technologist building across modern web stacks, cloud platforms, and security tools. I bring a strong foundation in hands-on projects and certifications, including work in:
 
-- 🌐 **Web Development** (Frontend & Backend)
-- ☁️ **Cloud Infrastructure & DevOps (AWS, Azure)**
-- 🛡️ **Cybersecurity (SOC Analyst | SIEM | Cisco OMCP Track)**
-- 🧠 **Data Science & Machine Learning**
-- ✨ **Prompt Engineering (AI/LLM Use & Design)**
+-  **Web Development** (Frontend & Backend)
+-  **Cloud Infrastructure & DevOps (AWS, Azure)**
+-  **Cybersecurity (SOC Analyst | SIEM | Cisco OMCP Track)**
+-  **Data Science & Machine Learning**
+-  **Prompt Engineering (AI/LLM Use & Design)**
 
 ---
 
 ##  Technical Skills
 
-### 🌐 Web Development
+###  Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-### ☁️ Cloud & DevOps
+###  Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -31,7 +31,7 @@ I'm a passionate technologist building across modern web stacks, cloud platforms
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6C37?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### 🛡️ Cybersecurity (SOC)
+###  Cybersecurity (SOC)
 ![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-0F9D58?style=flat&logo=security&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-003366?style=flat&logo=splunk&logoColor=white)
 ![Cisco OMCP](https://img.shields.io/badge/Cisco_OMCP_Track-1D63ED?style=flat&logo=cisco&logoColor=white)
@@ -42,20 +42,20 @@ I'm a passionate technologist building across modern web stacks, cloud platforms
 
 > I’ve worked on SOC-oriented projects involving event analysis, log correlation, alert tuning, and basic automation using Cisco-based tools and open-source SIEMs.
 
-### 🧠 Data Science
+### Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-### ✨ Prompt Engineering
+###  Prompt Engineering
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FCC624?style=flat&logo=openai&logoColor=black)
 > Skilled in crafting system and user prompts for large language models (LLMs) using OpenAI, Cohere, and Anthropic APIs. Applied this to build AI assistants and optimize automation workflows.
 
 ---
 
-## 📂 Project Portfolio
+## Project Portfolio
 
 Explore projects I've built across different tech domains:
 
