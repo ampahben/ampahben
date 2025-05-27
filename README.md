@@ -70,7 +70,8 @@ Explore projects I've built across different tech domains:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benjamin-ampah/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:benkwameampah@gmail.com)  
-[![Portfolio](https://ampahben.netlify.app/)
+[![Portfolio](https://via.placeholder.com/300x200.png?text=Portfolio)](https://ampahben.netlify.app/)
+
 
 ---
 
