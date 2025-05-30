@@ -46,23 +46,6 @@ I'm a passionate technologist building across modern web stacks, cloud platforms
 
 Explore projects I've built across different tech domains. Each project title links to a detailed overview, including architecture, technologies used, and key learnings.
 
-### Cybersecurity Projects
-* **[Cyber Security Management (ANZ Australia Job Simulation)](YOUR_ANZ_CYBER_LINK_HERE)**
-    * *Issue:* Investigated emails for malicious content (phishing) and analyzed suspicious network activity via packet capture.
-    * *What I Did:* Identified malicious emails, reported findings, examined network traffic (`.pcap`) for artifacts (images, files accessed).
-    * *Skills:* Network Traffic Analysis, Digital/Open Source Investigations, File Type Identification, Security Report Writing, Social Engineering Concepts.
-    * *Tools:* Wireshark, HxD (Hex Editor), Google Docs.
-* **[Cybersecurity Incident Response (Deloitte Australia Job Simulation)](YOUR_DELOITTE_CYBER_LINK_HERE)**
-    * *Issue:* Supported a client in determining the source of a data breach involving leaked private company information.
-    * *What I Did:* Analyzed web activity logs (`web_requests.log`) to spot suspicious requests, identify attacker patterns, and pinpoint the user ID involved in the alleged breach.
-    * *Skills:* Computer Networks, Log Inspection, Web Security.
-    * *Tools:* Python, VS Code.
-* **[Phishing Awareness & Simulation (Mastercard Job Simulation)](YOUR_MASTERCARD_CYBER_LINK_HERE)**
-    * *Issue:* Addressed the threat of phishing by designing awareness campaigns and interpreting simulation results to improve organizational security.
-    * *What I Did:* Crafted a realistic phishing email simulation for awareness, analyzed department-specific phishing success rates, and designed targeted training strategies to reduce attack risk.
-    * *Skills:* Communication, Cybersecurity, Data Analysis, Data Presentation, Design Thinking, Problem Solving, Security Awareness Training, Strategy, Technical Security Awareness.
-    * *Tools:* Google Slides.
-
 ### Cloud & Networking Infrastructure Projects (AWS)
 * **[Build a Virtual Private Cloud (VPC)](YOUR_VPC_BUILD_LINK_HERE)**
     * *Description:* Designed and configured a Virtual Private Cloud (VPC) in AWS, setting up subnets, an internet gateway, and managing IP addresses with CIDR blocks for efficient cloud networking.
@@ -106,6 +89,25 @@ Explore projects I've built across different tech domains. Each project title li
 * **[Host a Website on Amazon S3](YOUR_S3_WEBSITE_LINK_HERE)**
     * *Description:* Created an Amazon S3 bucket to store images and files for a personal website, ensuring efficient and accessible data storage.
     * *Skills:* Amazon S3, Networking, Amazon Web Services (AWS).
+
+---
+### Cybersecurity Projects
+* **[Cyber Security Management (ANZ Australia Job Simulation)](YOUR_ANZ_CYBER_LINK_HERE)**
+    * *Issue:* Investigated emails for malicious content (phishing) and analyzed suspicious network activity via packet capture.
+    * *What I Did:* Identified malicious emails, reported findings, examined network traffic (`.pcap`) for artifacts (images, files accessed).
+    * *Skills:* Network Traffic Analysis, Digital/Open Source Investigations, File Type Identification, Security Report Writing, Social Engineering Concepts.
+    * *Tools:* Wireshark, HxD (Hex Editor), Google Docs.
+* **[Cybersecurity Incident Response (Deloitte Australia Job Simulation)](YOUR_DELOITTE_CYBER_LINK_HERE)**
+    * *Issue:* Supported a client in determining the source of a data breach involving leaked private company information.
+    * *What I Did:* Analyzed web activity logs (`web_requests.log`) to spot suspicious requests, identify attacker patterns, and pinpoint the user ID involved in the alleged breach.
+    * *Skills:* Computer Networks, Log Inspection, Web Security.
+    * *Tools:* Python, VS Code.
+* **[Phishing Awareness & Simulation (Mastercard Job Simulation)](YOUR_MASTERCARD_CYBER_LINK_HERE)**
+    * *Issue:* Addressed the threat of phishing by designing awareness campaigns and interpreting simulation results to improve organizational security.
+    * *What I Did:* Crafted a realistic phishing email simulation for awareness, analyzed department-specific phishing success rates, and designed targeted training strategies to reduce attack risk.
+    * *Skills:* Communication, Cybersecurity, Data Analysis, Data Presentation, Design Thinking, Problem Solving, Security Awareness Training, Strategy, Technical Security Awareness.
+    * *Tools:* Google Slides.
+
 
 ---
 
