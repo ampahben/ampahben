@@ -1,6 +1,6 @@
 # Hi there, I'm Benjamin Ampah
 
-### Web Developer | Cloud & DevOps Engineer | Cybersecurity (SOC) Analyst
+### Cloud & DevOps Engineer | Cybersecurity (SOC) Analyst | Web Developer 
 
 I'm a passionate technologist building across modern web stacks, cloud platforms, and security tools. I bring a strong foundation in hands-on projects and certifications, including work in:
 
