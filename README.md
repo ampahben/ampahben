@@ -5,7 +5,7 @@
 I'm a passionate technologist building across modern web stacks, cloud platforms, and security tools. I bring a strong foundation in hands-on projects and certifications, including work in:
 
 - **Cloud Infrastructure & DevOps (AWS, Azure)**
-- **Cybersecurity (SOC Analyst | SIEM | Cisco OMCP Track)**
+- **Cybersecurity (SOC Analyst - Tier 1 | SIEM | Cisco OMCP Track)**
 -  **Web Development** (Frontend & Backend)
 
 ---
@@ -60,7 +60,7 @@ I'm a passionate technologist building across modern web stacks, cloud platforms
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 
-### Cybersecurity (SOC)
+### Cybersecurity (SOC Analyst - Tier 1)
 ![SOC Analyst](https://img.shields.io/badge/SOC_Analyst-0F9D58?style=flat&logo=security&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-003366?style=flat&logo=splunk&logoColor=white)
 ![Cisco OMCP](https://img.shields.io/badge/Cisco_OMCP_Track-1D63ED?style=flat&logo=cisco&logoColor=white)
