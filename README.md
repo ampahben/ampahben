@@ -4,9 +4,9 @@
 
 I'm a passionate technologist building across modern web stacks, cloud platforms, and security tools. I bring a strong foundation in hands-on projects and certifications, including work in:
 
-- **Web Development** (Frontend & Backend)
 - **Cloud Infrastructure & DevOps (AWS, Azure)**
 - **Cybersecurity (SOC Analyst | SIEM | Cisco OMCP Track)**
+-  **Web Development** (Frontend & Backend)
 
 ---
 ##  Technical Skills
