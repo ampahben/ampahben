@@ -4,7 +4,7 @@
 
 I'm a passionate technologist building across modern web stacks, cloud platforms, and security tools. I bring a strong foundation in hands-on projects and certifications, including work in:
 
-- **Cloud Infrastructure & DevOps (AWS, Azure)**
+- **Cloud & DevOps (AWS, Azure)**
 - **Cybersecurity (SOC Analyst - Tier 1 | SIEM | Cisco OMCP Track)**
 -  **Web Development** (Frontend & Backend)
 
@@ -77,7 +77,7 @@ I'm a passionate technologist building across modern web stacks, cloud platforms
 
 Explore projects I've built across different tech domains. Each project title links to a detailed overview, including architecture, technologies used, and key learnings.
 
-### Cloud & Networking Infrastructure Projects (AWS)
+### Cloud & Networking Projects (AWS)
 * **[Build a Virtual Private Cloud (VPC)](YOUR_VPC_BUILD_LINK_HERE)**
     * *Description:* Designed and configured a Virtual Private Cloud (VPC) in AWS, setting up subnets, an internet gateway, and managing IP addresses with CIDR blocks for efficient cloud networking.
     * *Skills:* AWS Virtual Private Cloud (VPC), Subnet Configuration, Internet Gateway Management, IP Addressing & CIDR Blocks, Cloud Networking & Security.
