@@ -1,6 +1,6 @@
 # Hi there, I'm Benjamin Ampah
 
-### Cloud & DevOps | Cybersecurity (SOC Analyst - Tier 1) | Web Developer 
+### Cloud & DevOps | Cybersecurity (SOC Tier 1) | Web Development
 
 I'm a passionate technologist building across modern web stacks, cloud platforms, and security tools. I bring a strong foundation in hands-on projects and certifications, including work in:
 
